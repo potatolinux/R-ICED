@@ -1,4 +1,4 @@
-sudo apt install neofetch xorg screen build-essential i3-wm lightdm polybar ranger -y
+sudo apt install neofetch xorg screen build-essential i3-wm lightdm polybar ranger git -y
 
 
 //aller placer dans /etc/lightdm les images
