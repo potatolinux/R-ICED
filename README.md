@@ -5,4 +5,4 @@ Lightdm
 
 For xorg : i3
 
-For wayland Lightdm : Sway 
+For wayland : Sway 
