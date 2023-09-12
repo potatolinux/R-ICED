@@ -1,1 +1,1 @@
-sudo apt install neofetch xorg screen build-essential -y
+sudo apt install neofetch xorg screen build-essential i3wm lightdm -y
